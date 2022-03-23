@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: rgb(0, 255, 149);
+  background-color: rgb(152, 182, 216);
+}
+
+a {
+  color: #e6f092;
+}
+.flag{
+color:rgb(180, 216, 150);
+}
+.flagName{
+  color:yellowgreen;
+  font-style: oblique;
+  font-size: large;
+  font-weight: bold;
+}
