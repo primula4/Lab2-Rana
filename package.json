@@ -19,7 +19,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salwaAllawdaei/day3ex2.git"
+    "url": "git+https://github.com/primula4/Lab2-Rana.git"
   },
   "keywords": [
     "leafrning"
@@ -27,7 +27,7 @@
   "author": "Web4R",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/salwaAllawdaei/day3ex2/issues"
+    "url": "https://github.com/primula4/Lab2-Rana.git/issues"
   },
-  "homepage": "https://github.com/salwaAllawdaei/day3ex2#readme"
+  "homepage": "https://github.com/primula4/Lab2-Rana.git#readme"
 }
